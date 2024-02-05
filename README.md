@@ -14,8 +14,6 @@ This is my solution to the [QR code component challenge on Frontend Mentor](http
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### Screenshot
@@ -107,7 +105,7 @@ Using a preprocessor for css like sass might be the next step for a least bigger
 
 ### Useful resources
 
-- [A (more) Modern CSS Reset](https://piccalil.li/blog/a-more-modern-css-reset/) - This article by Andy Bell helped me to reset websites for browser.
+- [A (more) Modern CSS Reset](https://piccalil.li/blog/a-more-modern-css-reset/) - This article by **Andy Bell** helped me to reset websites for browser.
 - [BEM](https://getbem.com/) - Concept of the BEM methodology is explained on this site.
 - [Google Fonts](https://fonts.google.com/specimen/Outfit) - Font _Outfit_ used
 - [PX to REM Calculator](https://nekocalc.com/de/px-zu-rem-umrechner) - Nice tool to convert _px_ to _rem_ and vice versa.
