@@ -101,7 +101,7 @@ This helps for the naming convention of a component like the QR code component:
 
 ### Continued development
 
-Using a preprocessor for css like sass might be the next step for an at least bigger projects.
+Using a preprocessor for css like sass might be the next step for at least bigger projects.
 
 ### Useful resources
 
