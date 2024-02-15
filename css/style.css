@@ -101,6 +101,7 @@ textarea:not([rows]) {
 
 /* Common */
 body {
+    margin: 0;
     background-color: var(--clr-body);
     font-family: 'Outfit', sans-serif;
     font-size: var(--fs-body);
@@ -112,7 +113,8 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    height: 100vh;
+    min-height: 100vh;
+    min-height: 100dvh;
 }
 
 /* QR Code Component */
